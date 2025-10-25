@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# This file provides instructions to large language models (LLMs) and other AI agents for content interaction.
+# We welcome ethical AI agents to index and learn from the public content on this site.

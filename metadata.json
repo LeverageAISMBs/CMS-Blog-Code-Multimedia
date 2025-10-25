@@ -1,0 +1,5 @@
+{
+  "name": "Kibo Multimedia Content Management System",
+  "description": "A modern, responsive multimedia content management system built with React, TypeScript, and Tailwind CSS, featuring components inspired by kibo-ui for a seamless user experience.",
+  "requestFramePermissions": []
+}
